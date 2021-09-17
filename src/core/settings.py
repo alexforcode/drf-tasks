@@ -33,6 +33,7 @@ INSTALLED_APPS = [
 
     # own
     'users.apps.UsersConfig',
+    'tasks.apps.TasksConfig',
 ]
 
 MIDDLEWARE = [
